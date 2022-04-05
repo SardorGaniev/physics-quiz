@@ -1,0 +1,16 @@
+asgiref==3.4.1
+Django==3.2.4
+django-admin-list-filter-dropdown==1.0.3
+django-cors-headers==3.11.0
+django-filter==21.1
+django-related-admin==1.0.1
+django-rest-auth==0.9.5
+djangorestframework==3.13.1
+djangorestframework-jwt==1.11.0
+Pillow==9.0.0
+PyJWT==1.7.1
+python-dateutil==2.8.2
+pytz==2021.3
+six==1.16.0
+sqlparse==0.4.2
+transliterate==1.10.2
