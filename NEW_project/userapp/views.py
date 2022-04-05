@@ -60,3 +60,4 @@ class MyPaige(generics.ListAPIView):
     permission_classes = (IsAuthenticated,)
     serializer_class = serializers.StudentPaigeSerializer
 
+# foraa
