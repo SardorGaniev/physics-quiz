@@ -59,3 +59,4 @@ class MyPaige(generics.ListAPIView):
     queryset = User.objects.all
     permission_classes = (IsAuthenticated,)
     serializer_class = serializers.StudentPaigeSerializer
+
