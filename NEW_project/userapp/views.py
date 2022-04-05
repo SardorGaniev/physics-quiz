@@ -50,7 +50,7 @@ class UserReg(views.APIView):
             'status': True
         })
 
-# Моя страница
+
 class MyPaige(generics.ListAPIView):
     def get_queryset(self):
         user = self.request.user.phone
